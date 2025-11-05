@@ -20,7 +20,7 @@ Whether you love nature, technology, minimalism, or art — Wallpaper Studio kee
 
 ### Option 1 — From APK
 1. Download the latest release:  
-   👉 [Download Wallpaper Studio APK](https://drive.google.com/file/d/1V3mhaZcCfcczH1CUpHJU3vc_tX1JOKMR/view?usp=drive_link)
+   👉 [Download Wallpaper Studio .EXE](https://drive.google.com/file/d/1V3mhaZcCfcczH1CUpHJU3vc_tX1JOKMR/view?usp=drive_link)
 2. Open the APK on your Android device.  
 3. Allow installation from unknown sources (if prompted).  
 4. Launch the app and start exploring wallpapers!
